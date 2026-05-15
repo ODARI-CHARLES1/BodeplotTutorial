@@ -11,7 +11,7 @@ The Python Control Systems Library (python-control) is a Python package that imp
   pip install control
 ```
 
-[Github repository ](https://github.com/ODARI-CHARLES1/)
+[Github repository ](https://github.com/ODARI-CHARLES1/BodeplotTutorial)
 
 ## Contact me:
 
